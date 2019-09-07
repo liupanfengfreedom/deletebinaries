@@ -4,3 +4,4 @@ E:\VsProjects\deletebinaries\deletebinaries\bin\Debug\deletebinaries.pdb
 E:\VsProjects\deletebinaries\deletebinaries\obj\Debug\deletebinaries.csproj.CoreCompileInputs.cache
 E:\VsProjects\deletebinaries\deletebinaries\obj\Debug\deletebinaries.exe
 E:\VsProjects\deletebinaries\deletebinaries\obj\Debug\deletebinaries.pdb
+E:\VsProjects\deletebinaries\deletebinaries\obj\Debug\deletebinaries.csprojAssemblyReference.cache

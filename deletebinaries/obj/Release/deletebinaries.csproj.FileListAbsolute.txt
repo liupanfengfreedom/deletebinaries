@@ -1,7 +1,6 @@
 E:\VsProjects\deletebinaries\deletebinaries\bin\Release\deletebinaries.exe.config
 E:\VsProjects\deletebinaries\deletebinaries\bin\Release\deletebinaries.exe
 E:\VsProjects\deletebinaries\deletebinaries\bin\Release\deletebinaries.pdb
-E:\VsProjects\deletebinaries\deletebinaries\obj\Release\deletebinaries.csprojAssemblyReference.cache
 E:\VsProjects\deletebinaries\deletebinaries\obj\Release\deletebinaries.csproj.CoreCompileInputs.cache
 E:\VsProjects\deletebinaries\deletebinaries\obj\Release\deletebinaries.exe
 E:\VsProjects\deletebinaries\deletebinaries\obj\Release\deletebinaries.pdb
